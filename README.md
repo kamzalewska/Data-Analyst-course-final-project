@@ -2,7 +2,14 @@
 
 Data used in this project comes from Kaggle, however for the purpose of the project data were uploaded on internar server of Coders Lab IT school. Row data can be downloaded here: https://www.kaggle.com/datasets/threnjen/2019-airline-delays-and-cancellations.
 
-Scripts are written with Python. After webscrapping with API data were uploaded to Postgres server.
+The project was devided to 4 main sections:
+- getting data by webscrapping with API
+- uploading data to database - here we use Postgres server
+- data analysis with Pandas and matplotlib
+- creating views in Postgres by writhing SQL scripts
+- creating reports and dashboards with dash package 
+
+All scripts are written with Python.
 
 The business context of the project is as follows:
 
