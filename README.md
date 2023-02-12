@@ -1,2 +1,5 @@
-# Bootcamp final project
- This is a final project of Data Analyst course conducted by Coders Lab. The project has been done by a team of three people. It constists of webscapping section, data analyst part  and then visualisation.
+# Data Analyst course (by Coders Lab) final project
+
+This repository is a project which was an obligatory part of the course
+to obtain a certificate. It is done by me and two collagues.
+
